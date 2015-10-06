@@ -1,0 +1,8 @@
+C:\Documents and Settings\jason.champion\My Documents\Visual Studio 2008\Projects\NewlineRemovalUtility\NewlineRemovalUtility\bin\Debug\NewlineRemovalUtility.exe
+C:\Documents and Settings\jason.champion\My Documents\Visual Studio 2008\Projects\NewlineRemovalUtility\NewlineRemovalUtility\bin\Debug\NewlineRemovalUtility.pdb
+C:\Documents and Settings\jason.champion\My Documents\Visual Studio 2008\Projects\NewlineRemovalUtility\NewlineRemovalUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jason.champion\My Documents\Visual Studio 2008\Projects\NewlineRemovalUtility\NewlineRemovalUtility\obj\Debug\NewlineRemovalUtility.Form1.resources
+C:\Documents and Settings\jason.champion\My Documents\Visual Studio 2008\Projects\NewlineRemovalUtility\NewlineRemovalUtility\obj\Debug\NewlineRemovalUtility.Properties.Resources.resources
+C:\Documents and Settings\jason.champion\My Documents\Visual Studio 2008\Projects\NewlineRemovalUtility\NewlineRemovalUtility\obj\Debug\NewlineRemovalUtility.csproj.GenerateResource.Cache
+C:\Documents and Settings\jason.champion\My Documents\Visual Studio 2008\Projects\NewlineRemovalUtility\NewlineRemovalUtility\obj\Debug\NewlineRemovalUtility.exe
+C:\Documents and Settings\jason.champion\My Documents\Visual Studio 2008\Projects\NewlineRemovalUtility\NewlineRemovalUtility\obj\Debug\NewlineRemovalUtility.pdb
